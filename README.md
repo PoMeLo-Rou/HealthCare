@@ -8,6 +8,17 @@
 
 当前仓库是 **uni-app** 开发的**微信小程序端**，通过**条件编译**能兼容 **H5 端** 和 **App 端**。
 
+### 项目截图
+
+<table>
+  <tr>
+    <td><img width="100" src="./README/images/Screenshot_1.jpg" alt=""></td>
+    <td><img width="100" src="./README/images/Screenshot_2.jpg" alt=""></td>
+    <td><img width="100" src="./README/images/Screenshot_3.jpg" alt=""></td>
+    <td><img width="100" src="./README/images/Screenshot_4.jpg" alt=""></td>
+    <td><img width="100" src="./README/images/Screenshot_5.jpg" alt=""></td>
+  </tr>
+
 ## 项目源码及接口文档
 
 ### 📦 项目源码
@@ -60,11 +71,13 @@
 
 1. 安装依赖
 
+```shell
 # npm
 npm i --registry=https://registry.npmmirror.com
 
 2. 运行程序
 
+```shell
 # 微信小程序端
 npm run dev:mp-weixin
 
@@ -73,5 +86,6 @@ npm run dev:h5
 
 # App端
 需 HbuilderX 工具，运行 - 运行到手机或模拟器
+```
 
 3. 微信开发者工具导入 `/dist/dev/mp-weixin` 目录

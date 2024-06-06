@@ -1,0 +1,47 @@
+
+page{
+	        background: linear-gradient(to bottom,#d6e8ff 30%,#f2f7fb 55%, #f0f5f9 90%);
+}
+.test-tit {
+		  display: flex;
+		  justify-content: space-between;
+		  padding: 20rpx;
+}
+.progress {
+		  flex: 1;
+		  margin: 0 20rpx;
+}
+.structure {
+		  padding: 20rpx;
+		  margin: 20rpx;
+}
+.test-problem {
+		  display: block;
+		  background-color: #fff;
+		  color: #000;
+		  border-radius: 20rpx;
+}
+.test-choices {
+		  background-color: #e2eaf5;
+		  color: #000;
+}
+.choices-type {
+		  display: flex;
+		  align-items: center;
+}
+.line {
+		  display: inline-block;
+		  width: 6rpx;
+		  height: 26rpx;
+		  background-color: #0066ff;
+		  margin-right: 10rpx;
+}
+.choices-item {
+		  padding: 20rpx;
+		  background-color: #fff;
+		  margin: 20rpx 0 20rpx 0;
+}
+.hover-style {
+		  background-color: #ebf4ff;
+		  color: #298cff;
+}

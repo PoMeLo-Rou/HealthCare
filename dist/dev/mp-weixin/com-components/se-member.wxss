@@ -1,0 +1,39 @@
+
+.page.data-v-e186633e {
+		padding: 20rpx;
+		background-color: #fff;
+		height: 300rpx;
+}
+.page-tit.data-v-e186633e {
+		height: 76rpx;
+		line-height: 76rpx;
+		text-align: center;
+		font-weight: 600;
+	    font-size: 36rpx;
+		display: block;
+}
+.page-text.data-v-e186633e {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 40rpx;
+}
+.page-l.data-v-e186633e {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}
+.page-l image.data-v-e186633e {
+		width: 90rpx;
+		height: 90rpx;
+		border-radius: 50%;
+		margin-right: 10rpx;
+}
+.page-submit.data-v-e186633e {
+		height: 80rpx;
+		line-height: 80rpx;
+		width: 100%;
+		background-color: #0066ff;
+		color: #fff;
+		text-align: center;
+}

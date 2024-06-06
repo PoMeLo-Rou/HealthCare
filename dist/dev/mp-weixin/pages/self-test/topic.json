@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "抑郁症",
+  "navigationBarBackgroundColor": "#d6e8ff",
+  "usingComponents": {
+    "skeleton": "../../skeleton/self-test-topic"
+  }
+}

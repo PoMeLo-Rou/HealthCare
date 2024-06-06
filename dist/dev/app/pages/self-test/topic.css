@@ -1,0 +1,111 @@
+
+.sk-transparent[data-v-0648d4ec] {
+	    color: transparent !important;
+}
+.sk-text-14-2857-261[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text[data-v-0648d4ec] {
+	    background-origin: content-box !important;
+	    background-clip: content-box !important;
+	    background-color: transparent !important;
+	    color: transparent !important;
+	    background-repeat: repeat-y !important;
+}
+.sk-text-14-2857-772[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-631[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-49[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-533[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-914[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-133[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-440[data-v-0648d4ec] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-image[data-v-0648d4ec] {
+	    background: #EFEFEF !important;
+}
+.sk-container[data-v-0648d4ec] {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    width: 100%;
+	    height: 100%;
+	    overflow: hidden;
+	    background-color: transparent;
+}
+
+
+body{
+	        background: linear-gradient(to bottom,#d6e8ff 30%,#f2f7fb 55%, #f0f5f9 90%);
+}
+.test-tit {
+		  display: flex;
+		  justify-content: space-between;
+		  padding: 0.625rem;
+}
+.progress {
+		  flex: 1;
+		  margin: 0 0.625rem;
+}
+.structure {
+		  padding: 0.625rem;
+		  margin: 0.625rem;
+}
+.test-problem {
+		  display: block;
+		  background-color: #fff;
+		  color: #000;
+		  border-radius: 0.625rem;
+}
+.test-choices {
+		  background-color: #e2eaf5;
+		  color: #000;
+}
+.choices-type {
+		  display: flex;
+		  align-items: center;
+}
+.line {
+		  display: inline-block;
+		  width: 0.1875rem;
+		  height: 0.8125rem;
+		  background-color: #0066ff;
+		  margin-right: 0.3125rem;
+}
+.choices-item {
+		  padding: 0.625rem;
+		  background-color: #fff;
+		  margin: 0.625rem 0 0.625rem 0;
+}
+.hover-style {
+		  background-color: #ebf4ff;
+		  color: #298cff;
+}

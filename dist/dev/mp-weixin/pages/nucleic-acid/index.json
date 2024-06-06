@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "核酸检测预约",
+  "usingComponents": {
+    "skeleton": "../../skeleton/nucleic-acid"
+  }
+}

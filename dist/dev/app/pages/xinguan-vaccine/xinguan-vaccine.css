@@ -1,0 +1,127 @@
+
+.xinguan-form {
+		box-shadow: #f7f7f7 0px 0px 0.625rem 0.3125rem;
+}
+.form {
+	display: flex;
+	margin: 0 0.625rem;
+	padding: 0.9375rem 0;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 0.875rem;
+	border-bottom: 1px solid #e4e4e4;
+}
+.form uni-input {
+	text-align: right;
+	flex: 1;
+}
+.form:last-child {
+	border-bottom: none;
+}
+.place-style {
+	color: #e4e4e4;
+}
+.choose-address {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.choose-address uni-image {
+	width: 0.9375rem;
+	height: 0.9375rem;
+}
+.xinguan-address {
+	display: flex;
+	flex-direction: column;
+	/* align-items: center; */
+	font-size: 0.875rem;
+}
+.font-black {
+	font-weight: 700;
+}
+.font-small {
+	font-size: 0.75rem;
+}
+.firm {
+	width: 3.125rem;
+	height: 1.25rem;
+	line-height: 1.25rem;
+	background-color: #e4e4e4;
+	text-align: center;
+	margin-right: 0.3125rem;
+}
+.border {
+	margin: 0.625rem;
+	padding: 0.625rem;
+	box-shadow: #f7f7f7 0px 0px 0.625rem 0.3125rem;
+}
+.xinguan-week {
+	height: 4.6875rem;
+}
+.week-item {
+	float: left;
+	width: 5.3125rem;
+	height: 5rem;
+	background-color: #e4e4e4;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 0.15625rem;
+}
+.week-item uni-text {
+	margin: 0.15625rem 0;
+}
+.xinguan-time {
+	height: 6.25rem;
+	display: flex;
+	flex-direction: column;
+}
+.time-flex {
+	display: flex;
+}
+.time {
+	/* float: left; */
+	width: 5.625rem;
+	height: 3.75rem;
+	background-color: #e4e4e4;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 0.3125rem;
+	margin-top: 0.625rem;
+	margin-right: 0.625rem;
+}
+.checked {
+	background-color: #3383ff;
+	color: #fff;
+}
+.time uni-text {
+	margin: 0.15625rem 0;
+}
+.btn {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: #fff;
+	width: 100%;
+	padding: 0.9375rem;
+	text-align: center;
+	box-shadow: #f7f7f7 0px 0px 0.625rem 0.3125rem;
+}
+.btn uni-text {
+	width: 6.5rem;
+	height: 3.125rem;
+	line-height: 3.125rem;
+	
+	margin: 0 0.9375rem;
+	padding: 1.25rem;
+}
+.btn .cancel {
+	background-color: #e5faff;
+	padding: 1.25rem 2.34375rem;
+	color: #3383ff;
+}
+.btn .submit {
+	background-color: #3383ff;
+	color: #fff;
+}

@@ -1,0 +1,24 @@
+
+.login {
+		position: relative;
+		width: 100%;
+		height: 1200rpx;
+}
+image {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 1200rpx;
+}
+button {
+		position: absolute;
+		left: 30%;
+		top: 70%;
+		width: 350rpx;
+		background-color: #0066ff;
+		color: #ffffff;
+		text-align: center;
+		line-height: 90rpx;
+		height: 90rpx;
+}

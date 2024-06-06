@@ -1,0 +1,116 @@
+
+.taocan-top[data-v-c4e399cc] {
+		padding: 0.75rem;
+		margin-bottom: 1.25rem;
+		height: 2.8125rem;
+		box-shadow: #f7f7f7 0 0 0.625rem 0.3125rem;
+}
+.top-left[data-v-c4e399cc] {
+		float: left;
+}
+.top-right[data-v-c4e399cc] {
+		float: right;
+}
+.hpv-name[data-v-c4e399cc] {
+		font-size: 1.0625rem;
+		font-weight: 700;
+}
+.hpv-desc[data-v-c4e399cc] {
+		font-size: 0.75rem;
+		margin: 0.5625rem 0;
+}
+.desc-item[data-v-c4e399cc] {
+		width: 1.5625rem;
+		height: 0.78125rem;
+		line-height: 0.78125rem;
+		background-color: #e4e4e4;
+		color: #000000;
+		margin-right: 0.3125rem;
+		padding: 0.125rem;
+}
+.hpv-price[data-v-c4e399cc] {
+		color: #ff9900;
+		font-size: 0.875rem;
+}
+.hpv-form[data-v-c4e399cc] {
+			box-shadow: #f7f7f7 0px 0px 0.625rem 0.3125rem;
+}
+.form[data-v-c4e399cc] {
+		display: flex;
+		margin: 0 0.625rem;
+		padding: 0.9375rem 0;
+		align-items: center;
+		justify-content: space-between;
+		font-size: 0.875rem;
+		border-bottom: 1px solid #e4e4e4;
+}
+.form uni-input[data-v-c4e399cc] {
+		text-align: right;
+		flex: 1;
+}
+.form[data-v-c4e399cc]:last-child {
+		border-bottom: none;
+}
+.place-style[data-v-c4e399cc] {
+		color: #e4e4e4;
+}
+.choose-picker[data-v-c4e399cc] {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}
+.choose-picker uni-image[data-v-c4e399cc] {
+		width: 0.9375rem;
+		height: 0.9375rem;
+}
+.hpv-choose[data-v-c4e399cc] {
+		padding: 0.75rem;
+		margin-top: 0.625rem;
+		box-shadow: #f7f7f7 0 0 0.625rem 0.3125rem;
+		height: 9.375rem;
+}
+.choose-tit[data-v-c4e399cc] {
+		font-size: 0.9375rem;
+		font-weight: 700;
+		height: 2.5rem;
+}
+.choose-name[data-v-c4e399cc] {
+		height: 2.5rem;
+		font-size: 0.875rem;
+		color: #000000;
+		margin-top: 1.125rem;
+}
+.name-item[data-v-c4e399cc] {
+		
+		margin-right: 0.3125rem;
+		padding: 0.625rem;
+		background-color: #e4e4e4;
+}
+.footer[data-v-c4e399cc] {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 21.875rem;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		padding:1.09375rem;
+		box-shadow: #f7f7f7 0 0 0.625rem 0.3125rem;
+}
+.all-price[data-v-c4e399cc] {
+		color: #ff9900;
+		font-size: 0.875rem;
+}
+.submit[data-v-c4e399cc] {
+		text-align: center;
+		width: 3.125rem;
+		height: 0.3125rem;
+		line-height: 0.3125rem;
+		padding: 0.9375rem;
+		background-color: #3383ff;
+		color: #fff;
+}
+.selected[data-v-c4e399cc] {
+		background-color: #3383ff;
+		color: #fff;
+}

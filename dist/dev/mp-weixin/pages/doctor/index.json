@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "选择医生",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "point": "../../com-components/point",
+    "skeleton": "../../skeleton/s-doctor-index"
+  }
+}

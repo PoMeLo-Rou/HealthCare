@@ -1,0 +1,92 @@
+
+page{
+	      background: linear-gradient(to bottom,#d6e8ff 30%,#f2f7fb 55%, #f0f5f9 90%);
+		  padding: 20rpx;
+		  width: 100%;
+		  box-sizing: border-box;
+}
+.texts {
+		  line-height: 50rpx;
+		  margin-bottom: 40rpx;
+}
+.result-title {
+		  margin-bottom: 20rpx;
+}
+.text-black {
+		  font-weight: 600;
+}
+.result {
+		  padding: 20rpx;
+		  background-color: #fff;
+}
+.result-tit-b {
+		  display: block;
+		  color: #0066ff;
+		  margin-bottom: 20rpx;
+		  font-size: 40rpx;
+}
+.result-tit-s {
+		  display: block;
+		  color: #66ccff;
+		  margin-bottom: 20rpx;
+}
+.txt-title {
+		  margin-bottom: 30rpx;
+}
+.text-item {
+		  width: 100%;
+		  margin-bottom: 20rpx;
+		  display: inline-block;
+		  word-wrap: break-word;
+}
+.keshi {
+		  padding: 20rpx;
+		  background-color: #e4e6e7;
+		  display: flex;
+		  justify-content: space-between;
+		  align-items: center;
+		  margin-bottom: 20rpx;
+}
+.keshi-item {
+		  
+		  display: flex;
+		  flex-direction: column;
+		  /* align-items: center; */
+}
+.keshi-address {
+		  color: #afb9bf;
+}
+.guahao {
+		  color: #fff;
+		  padding: 10rpx;
+		  background-color: #0066ff;
+}
+.btn {
+	  	position: fixed;
+	  	bottom: 0;
+	  	left: 0;
+	  	background-color: #fff;
+		box-sizing: border-box;
+	  	width: 100%;
+	  	padding: 20rpx;
+	  	text-align: center;
+	  	box-shadow: #f7f7f7 0px 0px 20rpx 10rpx;
+		display: flex;
+		justify-content: space-between;
+}
+.btn button{
+		  font-size: 28rpx;
+		width: 280rpx;
+	  	height: 70rpx;
+	  	lighting-color: 70rpx;
+	  	margin: 0 20rpx;
+	  	/* padding: 20rpx; */
+}
+.btn .cancel {
+	  	background-color: #e5faff;
+	  	color: #3383ff;
+}
+.btn .submit {
+	  	background-color: #3383ff;
+	  	color: #fff;
+}

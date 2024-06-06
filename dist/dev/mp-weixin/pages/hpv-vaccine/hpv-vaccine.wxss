@@ -1,0 +1,68 @@
+
+.hpv-top image {
+		width: 100%;
+		height: 480rpx;
+}
+.hpv-tab {
+		padding: 40rpx 40rpx 0 40rpx;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+}
+.tab-item {
+		display: flex;
+		flex-direction: column;
+}
+.tab-item :nth-child(2) {
+		margin-top: 20rpx;
+}
+.selected {
+		display: block;
+		width: 100%;
+		height: 10rpx;
+		background-color: #0066ff;
+}
+.list-item {
+		margin: 30rpx 20rpx;
+		padding: 20rpx;
+		height: 140rpx;
+		box-shadow: #f7f7f7 0 0 20rpx 10rpx;
+}
+.list-left {
+		float: left;
+}
+.hpv-name {
+		font-size: 34rpx;
+		font-weight: 700;
+}
+.hpv-desc {
+		font-size: 24rpx;
+		margin: 18rpx 0;
+}
+.desc-item {
+		width: 50rpx;
+		height: 25rpx;
+		line-height: 25rpx;
+		background-color: #e4e4e4;
+		color: #000000;
+		margin-right: 10rpx;
+		padding: 4rpx;
+}
+.hpv-price {
+		color: #ff9900;
+		font-size: 28rpx;
+}
+.list-right {
+		float: right;
+		padding-top: 80rpx;
+}
+.list-right button {
+		width: 160rpx;
+		height: 70rpx;
+		line-height: 70rpx;
+		text-align: center;
+		color: #ffffff;
+		background-color: #0066ff;
+		border-radius: 30rpx;
+		font-size: 30rpx;
+}

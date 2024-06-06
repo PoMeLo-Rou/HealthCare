@@ -1,0 +1,92 @@
+
+body{
+	      background: linear-gradient(to bottom,#d6e8ff 30%,#f2f7fb 55%, #f0f5f9 90%);
+		  padding: 0.625rem;
+		  width: 100%;
+		  box-sizing: border-box;
+}
+.texts {
+		  line-height: 1.5625rem;
+		  margin-bottom: 1.25rem;
+}
+.result-title {
+		  margin-bottom: 0.625rem;
+}
+.text-black {
+		  font-weight: 600;
+}
+.result {
+		  padding: 0.625rem;
+		  background-color: #fff;
+}
+.result-tit-b {
+		  display: block;
+		  color: #0066ff;
+		  margin-bottom: 0.625rem;
+		  font-size: 1.25rem;
+}
+.result-tit-s {
+		  display: block;
+		  color: #66ccff;
+		  margin-bottom: 0.625rem;
+}
+.txt-title {
+		  margin-bottom: 0.9375rem;
+}
+.text-item {
+		  width: 100%;
+		  margin-bottom: 0.625rem;
+		  display: inline-block;
+		  word-wrap: break-word;
+}
+.keshi {
+		  padding: 0.625rem;
+		  background-color: #e4e6e7;
+		  display: flex;
+		  justify-content: space-between;
+		  align-items: center;
+		  margin-bottom: 0.625rem;
+}
+.keshi-item {
+		  
+		  display: flex;
+		  flex-direction: column;
+		  /* align-items: center; */
+}
+.keshi-address {
+		  color: #afb9bf;
+}
+.guahao {
+		  color: #fff;
+		  padding: 0.3125rem;
+		  background-color: #0066ff;
+}
+.btn {
+	  	position: fixed;
+	  	bottom: 0;
+	  	left: 0;
+	  	background-color: #fff;
+		box-sizing: border-box;
+	  	width: 100%;
+	  	padding: 0.625rem;
+	  	text-align: center;
+	  	box-shadow: #f7f7f7 0px 0px 0.625rem 0.3125rem;
+		display: flex;
+		justify-content: space-between;
+}
+.btn uni-button{
+		  font-size: 0.875rem;
+		width: 8.75rem;
+	  	height: 2.1875rem;
+	  	lighting-color: 2.1875rem;
+	  	margin: 0 0.625rem;
+	  	/* padding: 20rpx; */
+}
+.btn .cancel {
+	  	background-color: #e5faff;
+	  	color: #3383ff;
+}
+.btn .submit {
+	  	background-color: #3383ff;
+	  	color: #fff;
+}

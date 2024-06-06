@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "医师课堂",
+  "usingComponents": {
+    "skeleton": "../../skeleton/video"
+  }
+}

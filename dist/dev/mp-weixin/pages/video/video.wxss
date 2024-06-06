@@ -1,0 +1,40 @@
+
+.video-item {
+		position: relative;
+		box-shadow: #f7f7f7 0 0 20rpx 10rpx;
+}
+.video {
+		width: 100%;
+}
+.title {
+		position: absolute;
+		left: 20rpx;
+		top: 20rpx;
+		color: #fff;
+		font-size: 36rpx;
+}
+.play {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		width: 100rpx;
+		height: 100rpx;
+		transform: translate(-50%,-60%);
+}
+.doctor {
+		padding: 20rpx;
+		display: flex;
+		align-items: center;
+}
+.doctor image {
+		width: 40rpx;
+		height: 40rpx;
+		margin-right: 10rpx;
+}
+.loading {
+		text-align: center;
+}
+.loading image {
+		width: 60rpx;
+		height: 60rpx;
+}

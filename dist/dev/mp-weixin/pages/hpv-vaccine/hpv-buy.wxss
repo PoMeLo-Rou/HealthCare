@@ -1,0 +1,116 @@
+
+.taocan-top.data-v-c4e399cc {
+		padding: 24rpx;
+		margin-bottom: 40rpx;
+		height: 90rpx;
+		box-shadow: #f7f7f7 0 0 20rpx 10rpx;
+}
+.top-left.data-v-c4e399cc {
+		float: left;
+}
+.top-right.data-v-c4e399cc {
+		float: right;
+}
+.hpv-name.data-v-c4e399cc {
+		font-size: 34rpx;
+		font-weight: 700;
+}
+.hpv-desc.data-v-c4e399cc {
+		font-size: 24rpx;
+		margin: 18rpx 0;
+}
+.desc-item.data-v-c4e399cc {
+		width: 50rpx;
+		height: 25rpx;
+		line-height: 25rpx;
+		background-color: #e4e4e4;
+		color: #000000;
+		margin-right: 10rpx;
+		padding: 4rpx;
+}
+.hpv-price.data-v-c4e399cc {
+		color: #ff9900;
+		font-size: 28rpx;
+}
+.hpv-form.data-v-c4e399cc {
+			box-shadow: #f7f7f7 0px 0px 20rpx 10rpx;
+}
+.form.data-v-c4e399cc {
+		display: flex;
+		margin: 0 20rpx;
+		padding: 30rpx 0;
+		align-items: center;
+		justify-content: space-between;
+		font-size: 28rpx;
+		border-bottom: 1px solid #e4e4e4;
+}
+.form input.data-v-c4e399cc {
+		text-align: right;
+		flex: 1;
+}
+.form.data-v-c4e399cc:last-child {
+		border-bottom: none;
+}
+.place-style.data-v-c4e399cc {
+		color: #e4e4e4;
+}
+.choose-picker.data-v-c4e399cc {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}
+.choose-picker image.data-v-c4e399cc {
+		width: 30rpx;
+		height: 30rpx;
+}
+.hpv-choose.data-v-c4e399cc {
+		padding: 24rpx;
+		margin-top: 20rpx;
+		box-shadow: #f7f7f7 0 0 20rpx 10rpx;
+		height: 300rpx;
+}
+.choose-tit.data-v-c4e399cc {
+		font-size: 30rpx;
+		font-weight: 700;
+		height: 80rpx;
+}
+.choose-name.data-v-c4e399cc {
+		height: 80rpx;
+		font-size: 28rpx;
+		color: #000000;
+		margin-top: 36rpx;
+}
+.name-item.data-v-c4e399cc {
+		
+		margin-right: 10rpx;
+		padding: 20rpx;
+		background-color: #e4e4e4;
+}
+.footer.data-v-c4e399cc {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 700rpx;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		padding:35rpx;
+		box-shadow: #f7f7f7 0 0 20rpx 10rpx;
+}
+.all-price.data-v-c4e399cc {
+		color: #ff9900;
+		font-size: 28rpx;
+}
+.submit.data-v-c4e399cc {
+		text-align: center;
+		width: 100rpx;
+		height: 10rpx;
+		line-height: 10rpx;
+		padding: 30rpx;
+		background-color: #3383ff;
+		color: #fff;
+}
+.selected.data-v-c4e399cc {
+		background-color: #3383ff;
+		color: #fff;
+}

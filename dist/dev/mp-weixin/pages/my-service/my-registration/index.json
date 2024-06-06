@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "挂号订单",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "point": "../../../com-components/point",
+    "skeleton": "../../../skeleton/service-my-registration"
+  }
+}

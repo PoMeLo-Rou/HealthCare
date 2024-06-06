@@ -1,0 +1,43 @@
+
+.vaccine-order.data-v-5ceeaf96 {
+		margin: 20rpx;
+		padding: 20rpx;
+		box-shadow: #f7f7f7 0px 0px 20rpx 10rpx;
+}
+.order-tit.data-v-5ceeaf96 {
+		width: 100%;
+		font-weight: 700;
+		font-size: 32rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		border-bottom: 1px solid  #e4e4e4;
+}
+.order-message.data-v-5ceeaf96 {
+		display: flex;
+		align-items: center;
+		height: 80rpx;
+		line-height: 80rpx;
+}
+.message.data-v-5ceeaf96 {
+		margin-left: 14rpx;
+}
+.cancel-btn.data-v-5ceeaf96 {
+		text-align: right;
+		height: 90rpx;
+		padding-top: 30rpx;
+}
+.cancel-btn text.data-v-5ceeaf96 {
+		padding: 20rpx;
+		border-radius: 20rpx;
+}
+.to-cancel.data-v-5ceeaf96 {
+		border: 1px solid #3399ff;
+		color: #3399ff;
+}
+.canceled.data-v-5ceeaf96 {
+		border: 1px solid #e4e4e4;
+		color: #e4e4e4;
+}
+.order-price.data-v-5ceeaf96 {
+		text-align: right;
+}

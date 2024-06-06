@@ -1,0 +1,89 @@
+
+.sk-transparent[data-v-09c223d2] {
+	    color: transparent !important;
+}
+.sk-text-14-2857-276[data-v-09c223d2] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.575rem;
+	    position: absolute !important;
+}
+.sk-text[data-v-09c223d2] {
+	    background-origin: content-box !important;
+	    background-clip: content-box !important;
+	    background-color: transparent !important;
+	    color: transparent !important;
+	    background-repeat: repeat-y !important;
+}
+.sk-text-14-2857-288[data-v-09c223d2] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-132[data-v-09c223d2] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.575rem;
+	    position: absolute !important;
+}
+.sk-text-14-2857-905[data-v-09c223d2] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.4rem;
+	    position: relative !important;
+}
+.sk-text-14-2857-551[data-v-09c223d2] {
+	    background-image: linear-gradient(transparent 14.2857%, #EEEEEE 0%, #EEEEEE 85.7143%, transparent 0%) !important;
+	    background-size: 100% 1.575rem;
+	    position: absolute !important;
+}
+.sk-image[data-v-09c223d2] {
+	    background: #EFEFEF !important;
+}
+.sk-container[data-v-09c223d2] {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    width: 100%;
+	    height: 100%;
+	    overflow: hidden;
+	    background-color: transparent;
+}
+
+
+.video-item {
+		position: relative;
+		box-shadow: #f7f7f7 0 0 0.625rem 0.3125rem;
+}
+.video {
+		width: 100%;
+}
+.title {
+		position: absolute;
+		left: 0.625rem;
+		top: 0.625rem;
+		color: #fff;
+		font-size: 1.125rem;
+}
+.play {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		width: 3.125rem;
+		height: 3.125rem;
+		transform: translate(-50%,-60%);
+}
+.doctor {
+		padding: 0.625rem;
+		display: flex;
+		align-items: center;
+}
+.doctor uni-image {
+		width: 1.25rem;
+		height: 1.25rem;
+		margin-right: 0.3125rem;
+}
+.loading {
+		text-align: center;
+}
+.loading uni-image {
+		width: 1.875rem;
+		height: 1.875rem;
+}
